@@ -6,6 +6,7 @@ import java.util.logging.Logger;
  * Desafio 1 - Mostre a lista na ordem numérica:
  * <p>
  * Crie um programa que utilize a Stream API para ordenar a lista de números em ordem crescente e a exiba no console.
+ * </p>
  */
 public class Desafio1 {
 
